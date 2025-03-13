@@ -17,6 +17,6 @@ Early experiments showed significant overlap in genuine vs. spoof probability di
 
 Training involved cross-entropy loss and Stochastic Gradient Descent with a dynamic learning rate, and performance was assessed by visualizing score distributions for each class.
 <p align="center">
-  <img src="images/Distribution_Scores.png" alt="Description" width="500"/>
+  <img src="images/Distribution_Scores_InitialExp vs finalExp.png" alt="Description" width="500"/>
 </p> 
 
