@@ -1,6 +1,6 @@
 # Speech Spoofing Detection
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](images/Pre_amplification.png)
 
 This project, conducted in 2019, investigates detecting replayed (spoofed) speech via a Light CNN (LCNN) initially designed for noisy image recognition.
 
